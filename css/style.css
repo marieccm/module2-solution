@@ -25,32 +25,35 @@ section{
   padding: 0px;
 }
 
-h3{
+.subtitle{
+  width: 200px;
+  text-align: center;
   float:right;
   border: 1px solid black;
   margin: 0px;
-  padding: 0px;
-  font-size: 125%;
-  background-color: gray;
-  color: white; 
+  padding: 5px;
+  font-size: 125%; 
 }
 
-#box1 {
-  border: 1px solid black;
+#color1{
   background-color: #A7EBF5;
   color: #0D1156;
 }
 
-#box2 {
-  border: 1px solid black;
+#color2{
   background-color: #C9FADE;
   color: #0D1156;
 }
 
-#box3 {
-  border: 1px solid black;
+#color3{
   background-color: #E4C5F7;
   color: #0D1156;
+}
+
+.box{
+  border: 1px solid black;
+  background-color: #FDEFEF;
+  color: #0D1156; 
 }
 
 /* Simple Responsive Framework. */
