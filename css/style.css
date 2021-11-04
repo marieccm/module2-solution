@@ -7,6 +7,7 @@
 
 h1 {
   font-size: 175%;
+  text-align: center;
 }
 
 p {
@@ -15,15 +16,13 @@ p {
   margin-right: auto;
   margin-left: auto;
   clear: both;
-  padding: 10px;
+  padding: 20px;
 }
 
 section{
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
   margin:10px;
   box-sizing: border-box;
+  padding: 0px;
 }
 
 h3{
